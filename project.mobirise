@@ -195,7 +195,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-172-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "Portraits",
-                "caption": "Portraits",
+                "caption": "<a href=\"https://www.facebook.com/pg/BrandonLittlePhotography/photos/?tab=album&amp;album_id=1958461394425273\" target=\"_blank\">Portraits</a>",
                 "active": false
               },
               {
@@ -231,7 +231,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-1281-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "Portraits",
-                "caption": "Nature",
+                "caption": "<p><a href=\"https://www.facebook.com/pg/BrandonLittlePhotography/photos/?tab=album&amp;album_id=1958462241091855\" target=\"_blank\"></a>Nature</p>",
                 "active": false
               },
               {
