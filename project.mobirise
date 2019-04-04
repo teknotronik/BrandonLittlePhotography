@@ -31,8 +31,12 @@
     "favicon": "",
     "noImageResize": "",
     "uniqCompNum": 18,
-    "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.9.1",
+    "screenshot": "screenshot.png",
+    "whitelabel": "on",
+    "google-analytics": "",
+    "branding": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -188,7 +192,7 @@
             "images": [
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-172-2000x1333.jpg",
@@ -200,7 +204,7 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-128-2000x1333.jpg",
@@ -212,7 +216,7 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-37-2000x1333.jpg",
@@ -224,7 +228,7 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-1281-2000x1333.jpg",
@@ -236,7 +240,7 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-00231-2000x1333.jpg",
@@ -248,19 +252,19 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-1282-2000x1335.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1282-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-4666-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4666-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "Portraits",
-                "caption": "Macro Photography",
-                "active": false
+                "caption": "Engagements",
+                "active": true
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
@@ -272,15 +276,15 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1276-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5049-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5049-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "Portraits",
                 "caption": "Real Estate",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -384,12 +388,12 @@
               }
             },
             {
-              "authorName": "Julie C.",
-              "authorBio": "Sub-contractor",
-              "text": "<p>[ insert here ]</p>",
+              "authorName": "Andrew Strayer",
+              "authorBio": "Tiny Home Builder",
+              "text": "<p>\"Brandon was professional, knowledgeable with the highest level of quality and integrity. He did a fantastic job.\"<br><br></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/17626421-10212776301786335-8118706510128500414-n-160x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/strayer-160x159.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -432,7 +436,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#2e2e2e",
@@ -453,7 +457,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#2e2e2e",
@@ -499,7 +503,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "file:///C:/Users/darkm/AppData/Local/Mobirise.com/Mobirise/darkmilinko_0040hotmail_002ecom/addons/mobirise3/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#323232",
