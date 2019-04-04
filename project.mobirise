@@ -356,7 +356,7 @@
             {
               "authorName": "Amy Fry",
               "authorBio": "Realtor",
-              "text": "[ insert here ]",
+              "text": "<br><br><br><br><br>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/17499196-1341069759273130-7359131223372288763-n-160x160.jpg",
